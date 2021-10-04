@@ -18,3 +18,7 @@ O React é a biblioteca mais popular do JavaScript e é usada para construir uma
 ## [JavaScript](https://github.com/ViniciusLima7/dio-desafio-github-versionamento/tree/main/JavaScript)
 
 JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web. Javascript é o que navegador entende.
+
+## [HTML5](https://github.com/ViniciusLima7/dio-desafio-github-versionamento/tree/main/HTML5)
+
+HTML5, sigla para Hypertext Markup Language, é uma linguagem de marcação de hipertexto para apresentar e estruturar o conteúdo na web.
