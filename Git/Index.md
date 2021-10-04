@@ -20,7 +20,7 @@ Abaixo temos um resumo com os códigos mais usados no Git
 
 ### Adicionar arquivos para o staged
 
-`git add.`
+`git add .`
 
 ### Commitar
 
