@@ -4,7 +4,7 @@ Repositório criado para o desafio de Projeto da Dio.
 
 ## Sejam bem-vindos ao Repositório de Anotações do GitHub :heart_eyes:
 
-Aqui você encontrará anotações sobre Git, JavaScript e React, aproveite e contribua para que todos achem informações relavantes em um só lugar
+Aqui você encontrará anotações sobre Git, HTML, CSS, JavaScript e React, aproveite e contribua para que todos achem informações relavantes em um só lugar
 
 ## **[Git](https://github.com/ViniciusLima7/dio-desafio-github-versionamento/tree/main/Git)**
 
@@ -22,3 +22,7 @@ JavaScript é uma linguagem de programação que permite a você implementar ite
 ## [HTML5](https://github.com/ViniciusLima7/dio-desafio-github-versionamento/tree/main/HTML5)
 
 HTML5, sigla para Hypertext Markup Language, é uma linguagem de marcação de hipertexto para apresentar e estruturar o conteúdo na web.
+
+## [CSS](https://github.com/ViniciusLima7/dio-desafio-github-versionamento/tree/main/CSS)
+
+CSS é uma linguagem de estilo, também conhecida como folhas de estilo em cascata. É usada para personalização visual de um site. Ou seja, elas servem para otimizar o conteúdo das páginas e permitir uma apresentação mais amigável para o usuário.
