@@ -26,11 +26,11 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 
 #### ID
 
-ID: é representado pelo símbolo # (hash) seguido de um nome para esse ID.
+ID: é **representado pelo símbolo # (hash)** seguido de um nome para esse ID.
 
 #### CLASSE
 
-Classe: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
+Classe: a classe é representada de forma parecida do ID, mas é **precedida por um ponto** em vez do hash.
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.
 
